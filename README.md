@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felickslindgren&label=Profile%20views&color=0e75b6&style=flat" alt="felickslindgren" /> </p>
 
-- 🔭 I’m currently working at [Integrationsbolaget Sverige AB](https://www.integrationsbolaget.se/)
+- 🔭 I’m currently working as Lead Developer at [Integrationsbolaget Sverige AB](https://www.integrationsbolaget.se/)
 
-- 🌱 I’m currently learning **Microsoft Azure, Lead Developing**
+- 🌱 I’m currently learning **Microsoft Azure**
 
-- 👨‍💻 All of my projects are available here or at [https://felix.lindgren.app/](https://felix.lindgren.app/)
+- 👨‍💻 All of my projects are available here or at [https://felickslindgren.github.io/](https://felickslindgren.github.io/)
 
 - 📝 I sometimes write articles on [https://medium.com/@felix.p.lindgren](https://medium.com/@felix.p.lindgren)
 
-- 💬 Ask me about **web, backend and ux**
+- 💬 Ask me about **frontend, backend, integrations**
 
 - 📫 How to reach me **felix.p.lindgren@gmail.com**
 
