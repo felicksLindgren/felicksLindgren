@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Lead Developer at [Integrationsbolaget Sverige AB](https://www.integrationsbolaget.se/)
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **Microsoft Azure** and **Cyber Security**
 
 - 👨‍💻 All of my projects are available here or at [https://felickslindgren.github.io/](https://felickslindgren.github.io/)
 
