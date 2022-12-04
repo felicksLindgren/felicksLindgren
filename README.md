@@ -18,5 +18,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/felix-lindgren-6a65a5a3/](https://www.linkedin.com/in/felix-lindgren-6a65a5a3/)
 
 - ⚡ Fun fact **I climb rocks for fun**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felickslindgren&show_icons=true&locale=en&layout=compact" alt="felickslindgren" /></p>
