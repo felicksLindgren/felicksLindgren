@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felickslindgren&label=Profile%20views&color=0e75b6&style=flat" alt="felickslindgren" /> </p>
 
+
+## About me 🤓
 - 🔭 I’m currently working as Lead Developer at [Integrationsbolaget Sverige AB](https://www.integrationsbolaget.se/)
 
 - 🌱 I’m currently learning **Microsoft Azure** and **Cyber Security**
@@ -18,3 +20,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/felix-lindgren-6a65a5a3/](https://www.linkedin.com/in/felix-lindgren-6a65a5a3/)
 
 - ⚡ Fun fact **I climb rocks for fun**
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=felicksLindgren&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=felicksLindgren&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felicksLindgren&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
