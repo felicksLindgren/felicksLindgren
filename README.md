@@ -5,7 +5,7 @@
 
 
 ## About me 🤓
-- 🔭 I’m currently working as Lead Developer at [Integrationsbolaget Sverige AB](https://www.integrationsbolaget.se/)
+- 🔭 I’m currently working as Lead Developer at [Omegapoint](https://omegapoint.se/)
 
 - 🌱 I’m currently learning **Microsoft Azure** and **Cyber Security**
 
