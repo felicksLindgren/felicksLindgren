@@ -7,7 +7,7 @@
 ## About me 🤓
 - 🔭 I’m currently working as Lead Developer at [Omegapoint](https://omegapoint.se/)
 
-- 🌱 I’m currently learning **Microsoft Azure** and **Cyber Security**
+- 🌱 I’m currently learning **Application Security** and **Cyber Security**
 
 - 👨‍💻 All of my projects are available here or at [https://felickslindgren.github.io/](https://felickslindgren.github.io/)
 
