@@ -5,15 +5,13 @@
 
 
 ## About me 🤓
-- 🔭 I’m currently working as Lead Developer at [Omegapoint](https://omegapoint.se/)
-
-- 🌱 I’m currently learning **Application Security** and **Cyber Security**
+- 🔭 I’m currently working as System Engineer at [Swedish Armed Forces](https://www.forsvarsmakten.se/en/)
 
 - 👨‍💻 All of my projects are available here or at [https://felickslindgren.github.io/](https://felickslindgren.github.io/)
 
 - 📝 I sometimes write articles on [https://medium.com/@felix.p.lindgren](https://medium.com/@felix.p.lindgren)
 
-- 💬 Ask me about **frontend, backend, integrations**
+- 💬 Ask me about **cybersecurity and cloud**
 
 - 📫 How to reach me **felix.p.lindgren@gmail.com**
 
